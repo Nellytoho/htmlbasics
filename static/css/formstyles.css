@@ -1,0 +1,40 @@
+.container{
+    max-width:400px ;
+    margin: 0 auto;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.coctainer h2{
+    text-align:center;
+}
+.form-group{
+    margin-top: 20px;
+
+}
+.form-groups label{
+    display: block;
+    margin-bottom: 1px;
+    font-weight: bold;
+}
+.form-group input{
+    width: 100%;
+    padding: 10px;
+    border-radius: 1px;
+    border: 1px solid black;
+}
+.form-group button{
+    width: 100%;
+    padding: 10px;
+    background-color:hotpink;
+    text-decoration-color: grey;
+    border: none;
+    border: 5px;
+    cursor: pointer;
+}
+form-group button:hover{
+    background-color: deeppink;
+}
+.body{
+    font-family: Dhurjati;
+}
